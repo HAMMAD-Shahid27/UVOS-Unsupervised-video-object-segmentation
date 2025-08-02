@@ -27,3 +27,22 @@ We aim to segment primary foreground objects in videos without manual annotation
 1. Download the datasets: DUTS, DAVIS, FBMS, YouTube-Objects.
 
 2. Estimate and save optical flow maps from the videos using RAFT.
+
+
+🚀 Running
+
+🏋️‍♂️ Training
+To start VISE training, run:
+
+
+    python run.py --train
+    
+Verify the following before running:
+✅ Training dataset selection and configuration
+✅ GPU availability and configuration
+✅ Backbone network selection
+
+
+🧪 Testing
+
+      python run.py --test

@@ -4,7 +4,7 @@ A research-focused framework for **Unsupervised Video Object Segmentation (UVOS)
 
 ### Demo
 
-![BiCycle Demo](BiCycle.gif)
+![BiCycle Demo](https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation/blob/main/BiCycle.gif?raw=true)
 
 
 ## 🧠 Key Idea

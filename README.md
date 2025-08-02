@@ -2,6 +2,11 @@
 
 A research-focused framework for **Unsupervised Video Object Segmentation (UVOS)** using **Contrastive learning** on benchmark datasets including **DAVIS**, **FBMS**, and **YT-OBJ**.
 
+### Demo
+
+![BiCycle Demo](BiCycle.gif)
+
+
 ## 🧠 Key Idea
 
 We aim to segment primary foreground objects in videos without manual annotations, leveraging:

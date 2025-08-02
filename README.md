@@ -1,6 +1,6 @@
 # 🎥 UVOS: Unsupervised Video Object Segmentation
 
-A research-focused framework for **Unsupervised Video Object Segmentation (UVOS)** using **contrastive learning** on benchmark datasets including **DAVIS**, **FBMS**, and **YT-OBJ**.
+A research-focused framework for **Unsupervised Video Object Segmentation (UVOS)** using **Contrastive learning** on benchmark datasets including **DAVIS**, **FBMS**, and **YT-OBJ**.
 
 ## 🧠 Key Idea
 
@@ -14,16 +14,16 @@ We aim to segment primary foreground objects in videos without manual annotation
 
 - Python, PyTorch
 - RAFT for Optical Flow
-- DAVIS 2016/2017, FBMS, YT-OBJ datasets
 
 ## 📂 Datasets Used
 
 - [DAVIS 2016](https://davischallenge.org/davis2016/code.html)
 - [FBMS](https://github.com/tfzhou/ASE-Fast)
+- [DUTS](https://dut-omron.github.io/DUTS)
 - [YouTube-Objects](https://github.com/liulu112601/MBNM)
 
 ## 🔧 Setup
 
-1. Download the datasets: DUTS, DAVIS, FBMS, YouTube-Objects, Long-Videos.
+1. Download the datasets: DUTS, DAVIS, FBMS, YouTube-Objects.
 
 2. Estimate and save optical flow maps from the videos using RAFT.

@@ -1,6 +1,6 @@
 from dataset import *
 import evaluation
-from tmo import TMO
+from vise import VISE
 from trainer import Trainer
 from optparse import OptionParser
 import warnings
